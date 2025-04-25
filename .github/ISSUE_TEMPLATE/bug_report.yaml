@@ -11,6 +11,7 @@ body:
       description: |
         Describe your environment.
         Provide all the details that will help us to reproduce the bug.
+   Provide all the details that will help us to reproduce the bug.
       value: |
         - Magento version
         - Anything else that would help a developer reproduce the bug
